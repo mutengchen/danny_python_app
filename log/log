@@ -1,0 +1,5 @@
+[2023-03-10 11:13:30,455] [17180] [INFO] - main.<module> (main.py:11) - hi world!
+[2023-03-10 11:19:35,612] [6332] [INFO] - main.<module> (main.py:11) - other ask!
+[2023-03-10 11:20:54,439] [15656] [ERROR] - main.<module> (main.py:12) - this is crash£¡
+[2023-03-10 11:21:51,995] [17556] [INFO] - main.<module> (main.py:11) - other ask!
+[2023-03-10 11:21:51,995] [17556] [DEBUG] - main.<module> (main.py:12) - this is crash£¡
